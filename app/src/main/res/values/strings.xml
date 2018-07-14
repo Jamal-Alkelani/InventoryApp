@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="insert_data">INSERT DATA</string>
+    <string name="read_data">READ DATA</string>
+</resources>
